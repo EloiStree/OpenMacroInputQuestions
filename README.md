@@ -9,8 +9,8 @@ You can contact me if you see that I seem available: [Discord](https://openmacro
 I will answer where I have time and will compile them in a "faq compilation video".
 
 Don't forget that you can learn by:
-- Follow some tutorials & read documentation
-- Observed examples
+- [Follow some tutorials & read documentation](https://openmacroinput.page.link/doc)
+- [Observed examples](https://openmacroinput.page.link/byexample)
 - ...
 
 
